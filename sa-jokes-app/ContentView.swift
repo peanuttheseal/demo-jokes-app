@@ -47,9 +47,9 @@ struct ContentView: View {
                         showPunchline = true
                     }
                 } label: {
-                    Text("What?")
+                    Text("HmMmMmMmMmMmMm...what?")
                         .padding()
-                        .background(Color.blue)
+                        .background(Color.purple)
                         .foregroundStyle(.white)
                 }
                 .padding()
